@@ -51,10 +51,9 @@ a:hover {
 }
 
 .icon {
-  width: 88px;
-  height: 88px;
+  width: 180px;
+  height: auto;
   margin-bottom: 1.5rem;
-  image-rendering: auto;
 }
 
 .eyebrow {
