@@ -1,8 +1,8 @@
 # Today's Quest
 
-Turn self-imvement into a game.
+Turn self-improvement into a game.
 
-Today's Quest is a gamified habit and self-improvement app for iPhone. Complete daily quests, earn experience, unlock badges, level up, and build a record of your personal growth.
+Today's Quest is a gamified habit and self-improvement app for iPhone. Complete daily quests, earn experience, unlock badges, level up, and build a private record of your personal growth.
 
 ## Features
 
